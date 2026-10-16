@@ -1,0 +1,30 @@
+# Systèmes / OS
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Éditeurs / Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Node (vérification de syntaxe / syntax check)
+node_modules/
+package-lock.json
+
+# ExtendScript compilé / compiled ExtendScript
+*.jsxbin
+
+# Exports de test / test exports
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+_tmp_ExporterPlansTravail_*/
+
+# Fichiers Illustrator de test / test Illustrator files
+*.ai
+*.eps
